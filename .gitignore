@@ -1,0 +1,7 @@
+.env
+app/.env
+*.ipynb
+vectorstore/
+__pycache__/
+*.pyc
+replacements.txt
