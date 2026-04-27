@@ -1,5 +1,6 @@
 .env
 app/.env
+.streamlit/
 *.ipynb
 vectorstore/
 __pycache__/
